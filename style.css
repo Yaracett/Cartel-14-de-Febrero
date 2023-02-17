@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    image-orientation: center;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #A7727D;
+    font-size: 20px;
+}
+#tu{
+    background-color: #EDDBC7;
+}
+
+#titulo{
+    background-color: #F8EAD8;
+  border-radius: 10% 10% 10% 10%;
+}
+#carrucel{
+    background-color: #EDDBC7;
+}
+
+#pregunta{
+    background-color: #EDDBC7;
+    font-size: 25px;
+    
+
+}
+#casillas{
+    background-color: #EDDBC7;
+    font-size: 25px;
+}
